@@ -106,3 +106,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://polite-pineapple-fb718.netlify.app'
